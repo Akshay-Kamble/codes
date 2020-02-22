@@ -18,7 +18,8 @@ Sample Input :
 	1 2 3 4 5
 Sample Output :
 	4 5 1 2 3
-*/
+*/ 
+
 class Array_Right_Rotation {
 	public static void main(String args[]) throws Exception {
 
