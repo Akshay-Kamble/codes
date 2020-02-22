@@ -1,6 +1,12 @@
 package Array;
 import java.util.Scanner;
 
+/*
+Sample Input
+1
+5 4
+2 7 3 4 9
+*/
 class Array_ArrayUpdate {
     public static void main(String args[] ) throws Exception {
        int i,j,T,N,K,min;
@@ -27,9 +33,3 @@ class Array_ArrayUpdate {
     }
 }
 
-/*
-	Sample Input
-1
-5 4
-2 7 3 4 9
-*/
